@@ -1,12 +1,7 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:93C5FD,30:3B82F6,70:1D4ED8,100:1E3A8A&height=250&section=header&text=Jandel%20Lopez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20|%20System%20Administrator&descAlignY=60" width="100%"/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Jandel2023/Jandel2023/main/assets/logo.png" width="300" alt="Jandel Lopez Logo"/>
-
-</div>
+<img src="https://raw.githubusercontent.com/Jandel2023/Jandel2023/main/assets/logo.png" width="140" alt="Jandel Lopez Logo" />
 
 # 👋 Hello, I'm Jandel Lopez
 
@@ -17,6 +12,18 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Jandel2023&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jandel2023&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jandel2023&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -87,18 +94,6 @@ Portfolio: https://jandellopez.vercel.app
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,herd,vercel,figma" />
 </p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jandel2023&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jandel2023&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
 
 ---
 
