@@ -2,6 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:93C5FD,30:3B82F6,70:1D4ED8,100:1E3A8A&height=250&section=header&text=Jandel%20Lopez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20|%20System%20Administrator&descAlignY=60" width="100%"/>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Jandel2023/Jandel2023/main/assets/logo.png" width="300" alt="Jandel Lopez Logo"/>
+
+</div>
+
 # 👋 Hello, I'm Jandel Lopez
 
 ### Full-Stack Developer • Laravel Filament Developer • System Administrator
